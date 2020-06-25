@@ -64,3 +64,12 @@
   text-decoration:none;
   text-shadow:0px -1px 4px #232423;
 }
+.mineboard{
+  background-image: linear-gradient(rgba(2002150,60,0.5),rgba(200,50,20,0.4));
+  border-style:inset;
+  border-color: black;
+  border-radius: 5%;
+  height: 60%;
+  width: 40%;
+  position: absolute;
+}
